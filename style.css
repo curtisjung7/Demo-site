@@ -1,0 +1,84 @@
+h1 {color: purple; text-align: center}
+h2 {color: purple; text-align: center}
+
+#First-name{
+  color: purple;
+  font-size: 60px;
+  text-align: center;
+}
+.ser {
+  font-family: brush script mt;
+}
+
+#Last-name{
+  color: purple;
+  font-size: 50px;
+  text-align: center;
+}
+.crossed-out{
+  font-family: brush script mt;
+  font-size: 50px;
+  text-decoration: line-through;
+}
+
+
+img {padding-left: 530px;}
+
+
+.button {
+    background-color: mediumpurple;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+
+
+p {
+  color: navy;
+  font-size: 20px;
+  text-align: center;
+  font-family: Courier New;
+}
+
+
+
+.container {
+  padding-top: 40px;
+  display: flex;
+}
+.square {
+  width: 60px;
+  height: 60px;
+  background-color: mediumpurple;
+}
+.around {
+  justify-content: space-around;
+}
+
+
+
+
+div {
+    background-image: url("https://www.welovesolo.com/wp-content/uploads/2014/10/p16hu6til8j5r13kc1eg01094q7p9-details.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+  p:hover {
+  width: 180px;
+  height: 180px;
+  background-color: white;
+}
+
+h3 {
+  color: white;
+  font-family: monospace;
+  font-size: 40px;
+}
